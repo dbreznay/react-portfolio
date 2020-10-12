@@ -1,6 +1,7 @@
 {
   "homepage": "http://dbreznay.github.io/react-portfolio",
   "name": "react-portfolio",
+  "main": "index.js",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
