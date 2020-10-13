@@ -17,8 +17,8 @@ class Projects extends Component {
                    other class matesin my Coding Bootcamp.
                 </CardText>
                 <CardActions border>
-                  <a target="_blank" href="https://github.com/dbreznay/Recipe-Hub"><Button colored>GitHub</Button></a>
-                  <a target="_blank" href="https://dbreznay.github.io/Recipe-Hub/."><Button colored>Live Link</Button></a>
+                  <a target="_blank" rel="noopener noreferrer" href="https://github.com/dbreznay/Recipe-Hub" ><Button colored>GitHub</Button></a>
+                  <a target="_blank" rel="noopener noreferrer" href="https://dbreznay.github.io/Recipe-Hub/."><Button colored>Live Link</Button></a>
                 </CardActions>
                 <CardMenu style={{color: '#fff'}}>
                   <IconButton name="share"/>
@@ -33,7 +33,8 @@ class Projects extends Component {
                 Site Logic provides tools to help you manage your projects across your entire organization.
                 </CardText>
                 <CardActions border>
-                  <Button colored>Get Started</Button>
+                  <a target="_blank" rel="noopener noreferrer" href="https://github.com/dbreznay/Recipe-Hub" ><Button colored>GitHub</Button></a>
+                  <a target="_blank" rel="noopener noreferrer" href="https://dbreznay.github.io/Recipe-Hub/."><Button colored>Live Link</Button></a>
                 </CardActions>
                 <CardMenu style={{color: '#fff'}}>
                   <IconButton name="share" />
