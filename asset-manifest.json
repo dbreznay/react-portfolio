@@ -1,23 +1,25 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.5f361e03.chunk.css",
-    "main.js": "/react-portfolio/static/js/main.ca12264d.chunk.js",
-    "main.js.map": "/react-portfolio/static/js/main.ca12264d.chunk.js.map",
+    "main.css": "/react-portfolio/static/css/main.2eb585c5.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.7ee5b5f8.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.7ee5b5f8.chunk.js.map",
     "runtime-main.js": "/react-portfolio/static/js/runtime-main.213b1880.js",
     "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.213b1880.js.map",
-    "static/js/2.0feb8754.chunk.js": "/react-portfolio/static/js/2.0feb8754.chunk.js",
-    "static/js/2.0feb8754.chunk.js.map": "/react-portfolio/static/js/2.0feb8754.chunk.js.map",
+    "static/css/2.cd1c2086.chunk.css": "/react-portfolio/static/css/2.cd1c2086.chunk.css",
+    "static/js/2.9df5fc07.chunk.js": "/react-portfolio/static/js/2.9df5fc07.chunk.js",
+    "static/js/2.9df5fc07.chunk.js.map": "/react-portfolio/static/js/2.9df5fc07.chunk.js.map",
     "index.html": "/react-portfolio/index.html",
-    "precache-manifest.5517b79731bd7773efa7e9a12609e841.js": "/react-portfolio/precache-manifest.5517b79731bd7773efa7e9a12609e841.js",
+    "precache-manifest.ec36baf6eb7a0cb2f3b4517157f96f8a.js": "/react-portfolio/precache-manifest.ec36baf6eb7a0cb2f3b4517157f96f8a.js",
     "service-worker.js": "/react-portfolio/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/react-portfolio/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.0feb8754.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.0feb8754.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/react-portfolio/static/media/logo.5d5d9eef.svg"
+    "static/css/2.cd1c2086.chunk.css.map": "/react-portfolio/static/css/2.cd1c2086.chunk.css.map",
+    "static/css/main.2eb585c5.chunk.css.map": "/react-portfolio/static/css/main.2eb585c5.chunk.css.map",
+    "static/js/2.9df5fc07.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.9df5fc07.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.213b1880.js",
-    "static/js/2.0feb8754.chunk.js",
-    "static/css/main.5f361e03.chunk.css",
-    "static/js/main.ca12264d.chunk.js"
+    "static/css/2.cd1c2086.chunk.css",
+    "static/js/2.9df5fc07.chunk.js",
+    "static/css/main.2eb585c5.chunk.css",
+    "static/js/main.7ee5b5f8.chunk.js"
   ]
 }
