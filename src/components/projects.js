@@ -33,8 +33,8 @@ class Projects extends Component {
                 Site Logic provides tools to help you manage your projects across your entire organization.
                 </CardText>
                 <CardActions border>
-                  <a target="_blank" rel="noopener noreferrer" href="https://github.com/dbreznay/Recipe-Hub" ><Button colored>GitHub</Button></a>
-                  <a target="_blank" rel="noopener noreferrer" href="https://dbreznay.github.io/Recipe-Hub/."><Button colored>Live Link</Button></a>
+                  <a target="_blank" rel="noopener noreferrer" href="https://github.com/dbreznay/Daring-Donkeys" ><Button colored>GitHub</Button></a>
+                  <a target="_blank" rel="noopener noreferrer" href="https://glacial-reef-34949.herokuapp.com/"><Button colored>Live Link</Button></a>
                 </CardActions>
                 <CardMenu style={{color: '#fff'}}>
                   <IconButton name="share" />
@@ -42,39 +42,7 @@ class Projects extends Component {
               </Card>
      
             )
-        } else if(this.state.activeTab === 2) {
-            return (
-                <Card shadow={5} style={{width: '512px', margin: 'auto'}}>
-                <CardTitle style={{color: '#fff', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover'}}>Welcome</CardTitle>
-                <CardText>
-                   Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                   Mauris sagittis pellentesque lacus eleifend lacinia...
-                </CardText>
-                <CardActions border>
-                  <Button colored>Get Started</Button>
-                </CardActions>
-                <CardMenu style={{color: '#fff'}}>
-                  <IconButton name="share" />
-                </CardMenu>
-              </Card>
-            )
-        }else if(this.state.activeTab === 3) {
-            return (
-                <Card shadow={5} style={{width: '512px', margin: 'auto'}}>
-                <CardTitle style={{color: '#fff', height: '176px', background: 'url(http://www.getmdl.io/assets/demos/welcome_card.jpg) center / cover'}}>Welcome</CardTitle>
-                <CardText>
-                   Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                   Mauris sagittis pellentesque lacus eleifend lacinia...
-                </CardText>
-                <CardActions border>
-                  <Button colored>Get Started</Button>
-                </CardActions>
-                <CardMenu style={{color: '#fff'}}>
-                  <IconButton name="share" />
-                </CardMenu>
-              </Card>
-            )
-        }
+        } 
 
     }
 
@@ -82,10 +50,8 @@ class Projects extends Component {
         return(
             <div className="category-tabs">
                 <Tabs activeTab={this.state.activeTab} onChange={(tabId) => this.setState({activeTab: tabId})} ripple>
-                  <Tab>JAM Stack</Tab>
-                  <Tab>NodeJS</Tab>
-                  <Tab>MongoDB</Tab>
-                  <Tab>Express</Tab>
+                  <Tab>Project 1</Tab>
+                  <Tab>Project2</Tab>
                 </Tabs>
 
                 <section className="projects-grid">
